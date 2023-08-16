@@ -3,7 +3,7 @@ package atividade1;
 
 import java.util.Scanner;
 
-public class verificaNumeroPrimo1{
+public class verificaNumeroPrimo{
    
    public static void main(String[] args) {
       Scanner inputUser = new Scanner(System.in);
