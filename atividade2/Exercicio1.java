@@ -1,3 +1,12 @@
+/*
+ Nome: Kauã Miguel Costa Matos
+ Matrícula : UC22101679
+
+Exercício 1: Calculadora Simples Crie um programa Java que funcione como uma calculadora 
+simples. Peça ao usuário para inserir dois números e uma operação (+, -, *, /). 
+Realize a operação escolhida e exiba o resultado.
+ */
+
 package atividade2;
 
 import java.util.Scanner;

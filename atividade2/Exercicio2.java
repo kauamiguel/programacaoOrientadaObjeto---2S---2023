@@ -1,3 +1,13 @@
+/*
+ Nome: Kauã Miguel Costa Matos
+ Matrícula : UC22101679
+
+ Exercício 2: Conversor de Temperatura Crie um conversor de temperatura que permita ao usuário 
+ converter entre Celsius e Fahrenheit. Peça ao usuário para escolher a direção da conversão
+e, em seguida, faça a conversão e exiba o resultado.
+ */
+
+
 package atividade2;
 
 import java.util.Scanner;
